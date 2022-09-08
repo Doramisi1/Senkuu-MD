@@ -1,17 +1,17 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
+  "namebot": "Mytstic-bot",
   "botNumber": "6283823742094@s.whatsapp.net",
   "owner": ["6281312960392@s.whatsapp.net"],
   "instagram": "https://instagram.com/repannthisori021_",
   "author": "Yntkts",
   "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "email": "egbertoananta@gmail.com",
   "self": false,
-  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "limit": { "limitUser": 1000, "gameLimitUser": 1000, "gameLimitPremium": 9999 },
   "packInfo":{
-    "packname": "Senkuu",
-    "author": "Beta ✓"
+    "packname": "Mystic-bot",
+    "author": "lemas ✓"
   },
   "ignore": {
 		"directory": ["umum"]
